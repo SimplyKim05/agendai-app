@@ -1,0 +1,6 @@
+{
+  "name": "AgendAI",
+  "description": "Smart meeting agenda generator using AI to analyze meeting descriptions and documents to create timed topics, summaries, and action items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
